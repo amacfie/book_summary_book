@@ -73,4 +73,79 @@
   author: Salman Rushdie
   title: Midnight's Children
   year: 1981
+- wikipedia slug: Alice's_Adventures_in_Wonderland
+  wikipedia section: Synopsis
+  author: Lewis Carroll
+  title: Alice's Adventures in Wonderland
+  year: 1865
+- wikipedia slug: The_Brothers_Karamazov
+  wikipedia section: Synopsis
+  author: Fyodor Dostoevsky
+  title: The Brothers Karamazov
+  year: 1880
+- wikipedia slug: Lord_Jim
+  wikipedia section: Plot summary
+  author: Joseph Conrad
+  title: Lord Jim
+  year: 1900
+- wikipedia slug: Nostromo
+  wikipedia section: Plot summary
+  author: Joseph Conrad
+  title: Nostromo
+  year: 1904
+- wikipedia slug: Pride_and_Prejudice
+  wikipedia section: Plot summary
+  author: Jane Austen
+  title: Pride and Prejudice
+  year: 1813
+- wikipedia slug: A_Study_in_Scarlet
+  wikipedia section: Plot summary
+  author: Sir Arthur Conan Doyle
+  title: A Study in Scarlet
+  year: 1887
+- wikipedia slug: The_Call_of_the_Wild
+  wikipedia section: Plot summary
+  author: Jack London
+  title: The Call of the Wild
+  year: 1903
+- wikipedia slug: Gulliver's_Travels
+  wikipedia section: Plot
+  author: Jonathan Swift
+  title: Gulliver's Travels
+  year: 1726
+- wikipedia slug: Sense_and_Sensibility
+  wikipedia section: Plot summary
+  author: Jane Austen
+  title: Sense and Sensibility
+  year: 1811
+- wikipedia slug: The_Private_Memoirs_and_Confessions_of_a_Justified_Sinner
+  wikipedia section: Plot
+  title: The Private Memoirs and Confessions of a Justified Sinner
+  author: James Hogg
+  year: 1824
+- wikipedia slug: The_Heart_of_the_Matter
+  wikipedia section: Plot summary
+  author: Graham Greene
+  year: 1948
+  title: The Heart of the Matter
+- wikipedia slug: A_Portrait_of_the_Artist_as_a_Young_Man
+  wikipedia section: Synopsis
+  author: James Joyce
+  title: A Portrait of the Artist as a Young Man
+  year: 1916
+- wikipedia slug: The_Adventures_of_Tom_Sawyer
+  wikipedia section: Plot
+  author: Mark Twain
+  year: 1876
+  title: The Adventures of Tom Sawyer
+- wikipedia slug: Heart_of_Darkness
+  wikipedia section: Plot summary
+  author: Joseph Conrad
+  title: Heart of Darkness
+  year: 1899
+- wikipedia slug: Ivanhoe
+  wikipedia section: Plot summary
+  author: Sir Walter Scott
+  title: Ivanhoe
+  year: 1820
 
