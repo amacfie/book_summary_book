@@ -65,6 +65,6 @@ for author, author_books in itertools.groupby(
         out += book['summary']
         out += '\n\n'
 
-with open('out.md', 'w') as f:
+with open('index.md', 'w') as f:
     f.write(out)
 
