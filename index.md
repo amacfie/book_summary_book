@@ -5,11 +5,15 @@ rights:  Creative Commons Attribution-ShareAlike 3.0
 language: en-US
 ...
 
+Creative Commons Attribution-ShareAlike 3.0
+
+\pagebreak
+
 # Thomas Hardy
 
 ## War and Peace (1869)
 
-<https://en.wikipedia.org/wiki/War_and_Peace>
+Taken from <https://en.wikipedia.org/wiki/War_and_Peace>
 
 ### Book One {#book_one}
 
@@ -274,7 +278,7 @@ unpredictable.
 
 ## Far from the Madding Crowd (1874)
 
-<https://en.wikipedia.org/wiki/Far_from_the_Madding_Crowd>
+Taken from <https://en.wikipedia.org/wiki/Far_from_the_Madding_Crowd>
 
 ### Meeting, parting and reuniting {#meeting_parting_and_reuniting}
 
