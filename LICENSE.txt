@@ -1,0 +1,4 @@
+All markdown (.md) and epub (.epub) files are licensed under Creative Commons
+Attribution-ShareAlike 3.0.
+
+All other files are licensed under the MIT License.
